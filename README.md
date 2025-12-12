@@ -7,7 +7,6 @@
 - 👨‍💻 Know more about me:
 - 📝 I write sometimes on Medium
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
 
 ---
 
