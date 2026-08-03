@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Backend+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+New+Things+🚀" />
 
-<p>
-Passionate about building intelligent software, scalable backend systems, and AI-powered applications.
-</p>
-
-![](https://komarev.com/ghpvc/?username=anubhav2921&style=for-the-badge&color=blue)
-![](https://img.shields.io/github/followers/anubhav2921?style=for-the-badge)
-![](https://img.shields.io/github/stars/anubhav2921?style=for-the-badge)
 
 </div>
 
