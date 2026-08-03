@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3B82F6,100:8B5CF6&text=Anubhav%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Backend+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+New+Things+🚀" />
 
 
 </div>
