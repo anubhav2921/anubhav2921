@@ -76,26 +76,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhav2921&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anubhav2921&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
----
-
 <div align="center">
 
 ## ⭐ Code • Learn • Build • Repeat
