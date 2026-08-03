@@ -1,14 +1,25 @@
-<h1 align="center">Hello, I'm Anubhav Agrawal</h1>
----
+# Hi 👋 I'm Anubhav Agrawal
 
-- 🌐 I'm an aspiring full-stack developer and open-source contributor from India.   
-- 🌱 I’m working on improving my DSA and backend skills.  
-- 💼 All my projects are available at:
-- 👨‍💻 Know more about me:
-- 📝 I write sometimes on Medium
+🚀 GenAI | Backend Developer | Full Stack Developer
 
+💻 Currently Building
+- AI Applications using LLMs
+- Backend APIs (Node.js, Express)
+- RAG Systems
+- Full Stack Projects
 
----
+🌱 Currently Learning
+- Generative AI
+- LangChain
+- Vector Databases
+- Docker
+- AWS
 
-### Badges
+🎯 2026 Goals
+- 10+ GitHub Contributions every month
+- 10 Production Projects
+- 100 LeetCode Problems
+- Open Source Contributions
 
+📫 Reach Me
+Email = anubhavag128@gmail.com
